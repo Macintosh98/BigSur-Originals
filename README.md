@@ -16,4 +16,4 @@ To install themes :
 ![BigSur-Originals](preview/1.png?raw=true)
 ![BigSur-Originals](preview/2.png?raw=true)
 ![BigSur-Originals](preview/3.png?raw=true)
-
+![BigSur-Originals](preview/4.png?raw=true)
